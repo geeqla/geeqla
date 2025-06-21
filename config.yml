@@ -1,6 +1,5 @@
 baseURL: "https://www.geeqla.com"
 title: Geeqla
-paginate: 1
 theme: PaperMod
 disableHugoGeneratorInject: true
 enableInlineShortcodes: true
@@ -21,6 +20,10 @@ minify:
       keepEndTags: true
       keepQuotes: true
       keepWhitespace: false
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
 
 languages:
   en:
