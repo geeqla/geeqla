@@ -41,7 +41,7 @@ languages:
       homeInfoParams:
         Title: Hey!
         Content: >
-          My [PGP key](https://geeq.la/@).
+          My [PGP key](geeqla.asc).
       profileMode:
         enabled: true
         title: Hey!
@@ -49,7 +49,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "My **[PGP key](https://geeq.la/@)**."
+        subtitle: "My **[PGP key](geeqla.asc)**."
 
   de:
     languageName: ":de:"
@@ -66,7 +66,7 @@ languages:
       homeInfoParams:
         Title: Hallo!
         Content: >
-          Mein [PGP-Schlüssel](https://geeq.la/@).
+          Mein [PGP-Schlüssel](/geeqla.asc).
       profileMode:
         enabled: true
         title: Hallo!
@@ -74,7 +74,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Mein **[PGP-Schlüssel](https://geeq.la/@)**."
+        subtitle: "Mein **[PGP-Schlüssel](/geeqla.asc)**."
 
   fr:
     languageName: ":fr:"
@@ -91,7 +91,7 @@ languages:
       homeInfoParams:
         Title: Salut!
         Content: >
-          Ma [clé publique PGP](https://geeq.la/@).
+          Ma [clé publique PGP](/geeqla.asc).
       profileMode:
         enabled: true
         title: Salut!
@@ -99,7 +99,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Ma **[clé publique PGP](https://geeq.la/@)**."
+        subtitle: "Ma **[clé publique PGP](/geeqla.asc)**."
 
 params:
   defaultTheme: auto
