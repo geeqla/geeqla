@@ -42,7 +42,7 @@ languages:
       homeInfoParams:
         Title: Привет!
         Content: >
-          Мой [PGP ключ](https://geeq.la/@).
+          Мой [PGP ключ](geeqla.asc).
       profileMode:
         enabled: true
         title: Привет!
@@ -50,7 +50,7 @@ languages:
         imageTitle: Geeqla
         imageWidth: 120
         imageHeight: 120
-        subtitle: "Мой **[PGP ключ](https://geeq.la/@)**."
+        subtitle: "Мой **[PGP ключ](geeqla.asc)**."
 
 params:
   defaultTheme: auto
